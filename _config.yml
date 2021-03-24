@@ -1,7 +1,21 @@
 theme: jekyll-theme-hacker
 title: Pwn2Ninja Blog
-
-
+menu:
+    main:
+      - name: Home
+        url: ./
+        weight: 1
+      - name: Blog
+        url: posts
+        weight: 2
+      - name: Exploiting
+        url: ./exploiting.md
+      - name: Reversing
+        url: ./reversing.md
+      - name: CTFs
+        url: ./CTFs.md
+      - name: Mas!
+        url: ./random_posts.md
 params:
   env: production
   ShowReadingTime: true
@@ -17,4 +31,4 @@ params:
     - name: github
       url: "https://github.com/Pwn2Ninja"
     - name: email
-      url: "mailto:zafarduffer@protonmail.com"
+      url: "danex251@gmail.com"
