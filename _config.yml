@@ -1,0 +1,20 @@
+theme: jekyll-theme-hacker
+title: Pwn2Ninja Blog
+
+
+params:
+  env: production
+  ShowReadingTime: true
+  
+  profileMode:
+    enabled: True
+    Title: Hola 👋
+    subtitle: "Mi nombre es Adrián Mederos aka Pwn2Ninja, son un aficionado a la programación en Python y me encanta la explotación y la ingeniería inversa"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/D4n3xPwn?s=09"
+    - name: github
+      url: "https://github.com/Pwn2Ninja"
+    - name: email
+      url: "mailto:zafarduffer@protonmail.com"
