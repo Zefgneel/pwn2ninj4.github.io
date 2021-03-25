@@ -10,3 +10,33 @@ url                      : "https://pwn2ninj4.github.io" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Pwn2Ninj4/pwn2ninj4.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
+
+author:
+  name             : "Pwn2Ninj4"
+  avatar           : "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
+  bio              : "Reverse Engineer/Python-dev"
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "Pwn2Ninj4"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : "Pwn2Ninja"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
