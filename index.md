@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![GitHub](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg): [Pwn2Ninj4](https://github.com/Pwn2Ninj4)
 
 # Mi blog personal
 
