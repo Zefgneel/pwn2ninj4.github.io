@@ -18,4 +18,6 @@ _Write-ups sobre CTFs que voy haciendo :)_
 [Más!!!](./random_posts.html)
 Otros temas relacionados con la informática en general!
 
+* [Buffers Overflows: ¿Que son?](./content/Exploiting/post1.html)
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
