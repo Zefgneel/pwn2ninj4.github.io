@@ -2,8 +2,7 @@
 layout: default
 ---
 
-![Twitter](https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg) ![GitHub](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg)
-
+![https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg](https://github.com/Pwn2Ninj4)
 # Mi Blog Personal
 
 Este es mi blog personal, donde estaré tocando temas relacionados con la explotación de binarios, ingeniería inversa y algun que otro write up sobre CTFs
