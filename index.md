@@ -16,8 +16,6 @@ _Temas relacionados con la ingeniería inversa del software(Debugguers, técnica
 _Write-ups sobre CTFs que voy haciendo :)_
 
 [Más!!!](./random_posts.html)
-Otros temas relacionados con la informática en general!
-
-* [Buffers Overflows: ¿Que son?](./content/Exploiting/post1.html)
+Otros temas relacionados con la informática en general!!
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
