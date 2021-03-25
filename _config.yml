@@ -1,16 +1,2 @@
-# Site Settings
 theme: jekyll-theme-hacker
 title: "Pwn2Ninja Blog"
-title_separator: "-"
-name: "Pwn2Ninj4"
-description: "Blog orientado al exploiting, reversing y CTFs"
-url: "https://pwn2ninj4.github.io"
-
-
-# Autor Settings
-author:
-  name: "Pwn2Ninj4"
-  avatar: "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
-  bio: "Reverse-Engineer/Python-Dev"
-  github: "Pwn2Ninj4"
-  twitter: "Pwn2Ninja"
