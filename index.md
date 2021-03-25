@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+![GitHub](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg): [Pwn2Ninj4](https://github.com/Pwn2Ninj4)
 
-![https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg](https://github.com/Pwn2Ninj4)
-# Mi Blog Personal
+# Mi blog personal
 
 Este es mi blog personal, donde estaré tocando temas relacionados con la explotación de binarios, ingeniería inversa y algun que otro write up sobre CTFs
 
