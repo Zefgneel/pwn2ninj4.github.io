@@ -1,34 +1,16 @@
-theme: jekyll-theme-hacker
-title: Pwn2Ninja Blog
-menu:
-    main:
-      - name: Home
-        url: ./
-        weight: 1
-      - name: Blog
-        url: ./content/blog.md
-        weight: 2
-      - name: Exploiting
-        url: ./exploiting.md
-      - name: Reversing
-        url: ./reversing.md
-      - name: CTFs
-        url: ./CTFs.md
-      - name: Mas!
-        url: ./random_posts.md
-params:
-  env: production
-  ShowReadingTime: true
-  
-  profileMode:
-    enabled: True
-    Title: Hola 👋
-    subtitle: "Mi nombre es Adrián Mederos aka Pwn2Ninja, son un aficionado a la programación en Python y me encanta la explotación y la ingeniería inversa"
+# Site Settings
+theme              : jekyll-theme-hacker
+title              : "Pwn2Ninja Blog"
+title_separator    : "-"
+name               : "Pwn2Ninj4"
+description        : "Blog orientado al exploiting, reversing y CTFs"
+url                : "https://pwn2ninj4.github.io"
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/D4n3xPwn?s=09"
-    - name: github
-      url: "https://github.com/Pwn2Ninja"
-    - name: email
-      url: "danex251@gmail.com"
+
+# Autor Settings
+author:
+  name             : "Pwn2Ninj4"
+  avatar           : "https://avatars.githubusercontent.com/u/76569311?s=400&u=4df44d6472fa779c006da24f6c9e1c3325093aee&v=4"
+  bio              : "Reverse-Engineer/Python-Dev"
+  github           : "Pwn2Ninj4"
+  twitter          : "Pwn2Ninja"
