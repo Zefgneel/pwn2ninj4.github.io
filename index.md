@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Blog](https://github.com/Pwn2Ninj4/pwn2ninj4.github.io/blob/gh-pages/assets/images/806529453_415652.jpg)
+![Twitter](https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg) ![GitHub](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg)
 
 # Mi Blog Personal
 
